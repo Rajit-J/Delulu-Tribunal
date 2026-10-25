@@ -44,3 +44,7 @@ Browser history can be lost if site data is cleared and is not synced across dev
 ## Before publishing
 
 Review environment files and deployment settings. No license is included; add one only after confirming ownership and terms for all bundled assets.
+
+##Current Live Demo Link
+
+https://delulu-tribunal.netlify.app/
